@@ -41,5 +41,7 @@ Pointers:
 1.This process by and large should be repeated for all the features(a feature is an function which solves a purpose otherwise it is NOT a feature)
 2.The coder should always be open for client feedback but also needs to clearly mention the achievability of the changes requested by the client.
 3.If something needs to be changed then the client need to know that it might cost more time or money and if it cannot be done then it should be politely comminacted as well.
+4.Agile methodology should always be followed.
+5.Sprints and scrums should always be followed.
 
  ```
